@@ -1,0 +1,5 @@
+D:\Gerry\JWRIGHT_CARE\jwrightBLL\bin\Debug\jwrightBLL.dll
+D:\Gerry\JWRIGHT_CARE\jwrightBLL\bin\Debug\jwrightBLL.pdb
+D:\Gerry\JWRIGHT_CARE\jwrightBLL\obj\Debug\jwrightBLL.csprojResolveAssemblyReference.cache
+D:\Gerry\JWRIGHT_CARE\jwrightBLL\obj\Debug\jwrightBLL.dll
+D:\Gerry\JWRIGHT_CARE\jwrightBLL\obj\Debug\jwrightBLL.pdb
